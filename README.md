@@ -12,3 +12,9 @@
 
 ## 成果:
 达到预期的目标,可以搜索并播放音乐。
+
+### 项目内使用的API接口：
+
+http://music.163.com/api/search/pc/type=1&s=歌曲名
+
+https://api.imjad.cn/cloudmusic/type=song&id=歌曲ID&br=128000
